@@ -1,0 +1,35 @@
+
+.container {
+    display:flex;
+    width:1600px;
+    height:800px;
+    font-size: large;
+    padding: 25px 20px;
+}
+
+.box1{
+    
+    border: 10px solid red;
+    width: 400px;
+    height: 400px;
+}
+.box2{
+ 
+    border-width:  10px;
+    border-style: none dotted none dashed;
+    border-color: red;
+    background-color: rgb(55, 6, 123);
+    color:whitesmoke;
+    width: 400px;
+    height: 375px;
+}
+
+.box3{
+    width: 400px;
+    height: 400px;
+    border-width: 5px;
+    border-style: dashed none solid none;
+    border-color: red;
+    background-color: rgb(128, 128, 128);
+    color: whitesmoke;
+}

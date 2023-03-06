@@ -1,0 +1,18 @@
+/* valid */
+.-my.div{}
+
+/* not valid */
+.12my_div{}
+
+/* not valid */
+.%mydiv{}
+
+/* not valid */
+.my@div{}
+
+/* not valid */
+.@mydiv{}
+
+/* valid */
+
+._div{}

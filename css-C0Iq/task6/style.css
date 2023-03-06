@@ -1,0 +1,11 @@
+
+
+.lorem {
+    margin: 50px;
+    padding: 25px 20px;
+    width: 1000px;
+    
+    background-color: rgba(169, 169, 169, 0.342);
+border: 10px solid red;
+border-style: none none none solid;
+}
